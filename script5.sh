@@ -16,4 +16,4 @@ echo "In the future, I want to build $BUILD and share it freely." >> $OUTPUT
 
 echo "Manifesto saved to $OUTPUT"
 cat $OUTPUT
-#Tamanna Rathore
+#MAYANK
