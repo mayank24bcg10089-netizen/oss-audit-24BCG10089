@@ -1,5 +1,5 @@
 #!/bin/bash
-STUDENT_NAME="Tamanna"
+STUDENT_NAME="Mayank"
 SOFTWARE_CHOICE="Git"
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
