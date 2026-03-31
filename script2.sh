@@ -17,4 +17,4 @@ case $PACKAGE in
     vlc) echo "VLC: multimedia player supporting all formats" ;;
     *) echo "Unknown package" ;;
 esac
-#Tamanna rathore
+#MAYANK
