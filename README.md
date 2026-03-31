@@ -1,12 +1,12 @@
-# oss-audit-24BCY10077-
+# oss-audit-24BCG10089
 
 # Open Source Software Audit Project
-This report is authored by Priyansh Bhatt(Registration Number: 24BCY10077), and provides a comprehensive audit of the Linux Kernel as a cornerstone of open-source software.
+This report is authored by Mayank CHauhan(Registration Number: 24BCG10105), and provides a comprehensive audit of the Linux Kernel as a cornerstone of open-source software.
 
 ## Student Details
 
-* Name: Priyansh Bhatt
-* Registration Number: 24BCY10077
+* Name: Mayank Chauhan
+* Registration Number: 24BCG10089
 * Course: Open Source Software (OSS)
 
 ## Chosen Software
@@ -29,11 +29,12 @@ This project is an audit of the open-source software Git. It explores its origin
 
 ### Step 1: Clone the repository
 
-git clone https://github.com/nooblyxmad/oss-audit-24BCY10077-/
+git clone https://github.com/mayank24bcg10089-netizen/oss-audit-24BCG10089/
+
 
 ### Step 2: Navigate to directory
 
-cd oss-audit-24BCY10077-
+cd oss-audit-24BCG10089
 
 ### Step 3: Give permission
 
